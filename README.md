@@ -92,3 +92,9 @@ Variáveis globais são variáveis onde ocorre o acoplamento, caso a gente mude 
 PRICÍPIO DO ABERTO/FECHADO:
 
 Proteger o comportamento do seus objetos para ninguem possa quebrar eles, para ninguem quebre o código, porém podem extender seus objetos, extender as funcionalidades.
+
+Principio de Substituição de Liskov:
+
+Os filhos herdam o padrão dos pais, onde se trocarmos os filhos eles continuaram funcionando dentro do código.
+
+
