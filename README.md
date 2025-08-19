@@ -97,4 +97,6 @@ Principio de Substituição de Liskov:
 
 Os filhos herdam o padrão dos pais, onde se trocarmos os filhos eles continuaram funcionando dentro do código.
 
+AULA 18/08/25
 
+variavel global, static ele faz com que ele seja alocado na memória antes que o objeto
