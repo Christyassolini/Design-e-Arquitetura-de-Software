@@ -100,3 +100,40 @@ Os filhos herdam o padrão dos pais, onde se trocarmos os filhos eles continuara
 AULA 18/08/25
 
 variavel global, static ele faz com que ele seja alocado na memória antes que o objeto
+
+Aula 01/09/25
+
+Requisitos Funcionais são as telas que podemos ver
+
+Requisitos Não Funcionais são requisitos que necessariamente precisamos cumprir
+
+Características da arquitetura são requisitos funcionais.
+
+Não tem como um sistema cumprir 100% das características de arquiteturais, porém buscamos cumpri-los
+
+Decisões de arquitetura:
+
+quando escolhemos uma arquitetura, escolhemos o futuro do nosso sistema, sendo uma das decisões mais importantes na hr de construir um sistema.
+
+principios do design:
+
+seria como uma regra que devemos seguir, onde temos principios a seguir para desenvolver um sistema.
+
+O que um arquiteto faz?
+
+- por ser uma pessoa que tem uma grande experiencia, ele toma as decisões e orienta a equipe no que deve-se usar na arquitetura do sistema que será desenvolvido.
+
+- Continuamente acompanhar as tecnologias atuais, recomendar soluções e melhorias. Analisar situações onde devemos fazer as escolhas corretas, avaliando o que deve ser mudado dentro do sistema.
+
+- Assegurar que os padrões estão sendo seguidos, significa que continuamente o arquiteto precisar estar analisando as linhas de códigos, procurando padrões a ser seguidos, assegurando que o código esteja funcionando.
+
+- Geralmente o arquiteto é contratado para analisar o sistema, então é importante que ele tenha muita experiência na área, que ele tenha trabalhado em muitas áreas na construção de um sistema. Ter conhecimento do mínimo do negócio.
+
+- Ter habilidades interpessoais, saber motivar as pessoas e lidar com seu grupo.
+
+- Entender e lidar bem com questões políticas, saber lidar e negociar com clientes, e saber influênciar as pessoas.
+
+- Operações/Dev0ps: É uma forma de entregar o produto de uma forma mais rápida para o cliente. Dev0ps é onde todos os participantes/desenvolvedores do projeto, são responsaveis pelo projeto, sendo uma cultura que pode ser adotadas pela empresas,
+sendo muito dificil encontrar profissionais de Dev0ps.
+
+- 
