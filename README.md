@@ -136,4 +136,17 @@ O que um arquiteto faz?
 - Operações/Dev0ps: É uma forma de entregar o produto de uma forma mais rápida para o cliente. Dev0ps é onde todos os participantes/desenvolvedores do projeto, são responsaveis pelo projeto, sendo uma cultura que pode ser adotadas pela empresas,
 sendo muito dificil encontrar profissionais de Dev0ps.
 
-- 
+AULA 02/09/25
+
+Arquitetura e Design:
+
+Ser um arquiteto é necessário saber a diferença de um arquiteto e design, e saber como os dois se completam.
+
+Um arquiteto tem o papel de definir as características da arquitetura do sistema desenvolvido, sendo um papeis mais importantes a ser tomados, e também definindo o estilo e a estrutura dos componentes do software. O arquiteto tende a ser
+o profissional com mais experiência participando do projeto, por sua vez tendo a moral necessária para decidir essas funções.
+
+Já um Design/Desenvolvedor, segue essas decisões tomadas pelo arquiteto. Porém, é necessário para que o projeto siga os padrões ditos pelo arquiteto, que o ele participe diretamente com a equipe desenvolvedora, pois isso facilita uma
+forte comunicação bidirecional entre a arquitetura e o desenvolvimento, sendo possível também que até mesmo o arquiteto possa ensinar, fornecendo treinamento e mentorias para os desenvolvedores na equipe. A responsabilidade dos desenvolvedores são como
+desenvolver diagramas de classe para cada componente, criar telas de interface de usuário e desenvolver e testar o código fonte do sistema.
+
+Como é a formação do conhecimento de um arquiteto modelo T?
