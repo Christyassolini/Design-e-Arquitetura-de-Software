@@ -150,3 +150,10 @@ forte comunicação bidirecional entre a arquitetura e o desenvolvimento, sendo 
 desenvolver diagramas de classe para cada componente, criar telas de interface de usuário e desenvolver e testar o código fonte do sistema.
 
 Como é a formação do conhecimento de um arquiteto modelo T?
+
+AULA 08/09/25
+
+
+
+
+
