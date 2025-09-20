@@ -1,6 +1,14 @@
-Design e Arquitetura de Software
+DESIGN E ARQUITETURA DE SOFTWARE
 
-AULA 1 04/05/25:
+AULA 1 04/05/25
+
+ASSUNTOS:
+
+- Princípios de projeto de código
+- Padronização de código
+- Ocultamento de Informação
+- Coesão
+- Acoplamento
 
 Uma estratégia importante para combater a complexidade de sistemas de software passa pela criação de abstrações.
 Uma abstração— pelo menos em Computação — é uma representação simplificada de uma entidade.
@@ -32,6 +40,12 @@ apagar um código e ele continuar certo
 
 AULA 2 05/08/25
 
+ASSUNTO:
+
+* SOLID *
+  - Single Responsibility Principle
+  - Interface Segregation Principle
+
 Para acabar ajudar a solucionar o acoplamento você usa a técnica chamada Injeção de Dependência.
 
 SOLID:
@@ -57,6 +71,14 @@ Ter uma interface especifica para cada uma responsabilidade, interface para bot�
 
 
 AULA 3 11/08/2025
+
+ASSUNTO:
+
+* SOLID *
+  - Princípio da inversão de dependências
+  - Prefira composição a herança
+  - Princípio de Demeter (menor conhecimento)
+  - Princípio Aberto/Fechado
 
 PRINCIPIO DA INVERSÃO DE INDEPENDÊNCIA:
 Um classe deve depender apenas de uma abstração e não de uma implementação completa
@@ -97,11 +119,31 @@ Principio de Substituição de Liskov:
 
 Os filhos herdam o padrão dos pais, onde se trocarmos os filhos eles continuaram funcionando dentro do código.
 
-AULA 18/08/25
+AULA 4 12/08/25
+
+ASSUNTO:
+
+* SOLID *
+  - Princípio Liskov
+
+AULA 5 18/08/25
 
 variavel global, static ele faz com que ele seja alocado na memória antes que o objeto
 
-Aula 01/09/25
+AULA 6 25/08/25
+
+AULA 7 26/08/25
+
+Aula 8 01/09/25
+
+ASSUNTOS:
+
+- Expectativas de um arquiteto
+- Decisões de arquitetura
+- Analisar continuamento a arquitetura
+- Manter-se atualizado
+ -Domínio do negócio
+- DevOps
 
 Requisitos Funcionais são as telas que podemos ver
 
@@ -136,9 +178,14 @@ O que um arquiteto faz?
 - Operações/Dev0ps: É uma forma de entregar o produto de uma forma mais rápida para o cliente. Dev0ps é onde todos os participantes/desenvolvedores do projeto, são responsaveis pelo projeto, sendo uma cultura que pode ser adotadas pela empresas,
 sendo muito dificil encontrar profissionais de Dev0ps.
 
-AULA 02/09/25
+AULA 9 02/09/25
 
 Arquitetura e Design:
+
+ASSUNTO:
+
+- Resuma a diferençca entre: Arquitetura e Design
+- Como é a formação do conhecimento de um arquiteto modelo T?
 
 Ser um arquiteto é necessário saber a diferença de um arquiteto e design, e saber como os dois se completam.
 
@@ -151,7 +198,7 @@ desenvolver diagramas de classe para cada componente, criar telas de interface d
 
 Como é a formação do conhecimento de um arquiteto modelo T?
 
-AULA 08/09/25
+AULA 10 08/09/25
 
 
 
