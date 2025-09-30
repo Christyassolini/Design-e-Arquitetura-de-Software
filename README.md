@@ -406,3 +406,18 @@ A formação de um arquiteto de software deve seguir o conceito do profissional 
 ##  Trade-off
 trade-off é a avaliação das consequências ao escolher uma opção em detrimento de outra dentro da arquitetura de software. Toda decisão arquitetural implica ganhos e perdas, e o papel do arquiteto é analisar cuidadosamente essas trocas para equilibrar prioridades como desempenho, segurança, escalabilidade, custo, manutenibilidade e tempo de entrega. Não existe solução perfeita; cada escolha traz benefícios em certos aspectos, mas também limitações em outros. Por exemplo, optar por uma arquitetura de microsserviços pode aumentar a escalabilidade e a flexibilidade, mas, ao mesmo tempo, elevar a complexidade operacional e os custos de monitoramento. O processo de análise de trade-offs exige considerar o contexto do negócio, os requisitos de qualidade e as restrições existentes, avaliando impactos de curto e longo prazo. Dessa forma, um arquiteto eficiente não busca eliminar os trade-offs, mas sim tomar decisões conscientes e justificadas, comunicando claramente às partes interessadas os motivos da escolha e os compromissos envolvidos.
 
+---
+
+# 2° Bimestre
+### Circuit Breacker
+Proteger a comunicação entre sistemas.
+
+**Closed**
+Quando os sitema está certo.
+
+**Open**
+Quando da ruim.
+
+**Half-Open**
+De tempos em tempos ele vai para o estagio de meio aberto.
+
