@@ -10,6 +10,8 @@
     <name>Multi Project: DAS-1-2025-2-A</name>
 
     <modules>
-        <module>designpattterns</module>
+        <module>solid</module>
+        <module>designpatterns</module>
+        <module>eventos</module>
     </modules>
 </project>
